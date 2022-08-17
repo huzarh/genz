@@ -1,0 +1,119 @@
+<!-- <li><a href="#" class="icon fa-heart">0</a></li> -->
+
+
+
+
+// post
+
+<article class="box post post-excerpt">
+							<header>
+								<!--
+									ehlel
+								-->
+								<p>Welcome to GEN Z</p>
+								<h2><a href="#">GenZ, Millennials, Boomers: Үе хоорондын ялгаа<!--admin & users--></a></h2>
+
+								
+							</header>
+							<div class="info">
+								<!--
+									Note: The date should be formatted exactly as it's shown below. In particular, the
+									"least significant" characters of the month should be encapsulated in a <span>
+									element to denote what gets dropped in 1200px mode (eg. the "uary" in "January").
+									Oh, and if you don't need a date for a particular page or post you can simply delete
+									the entire "date" element.
+
+								-->
+								<span class="date"><span class="month">Jul<span>y</span></span> <span class="day">14</span><span class="year">, 2014</span></span>
+								
+								
+								
+								<!--
+									php likeiiiin protsesiig oruulj irnee
+								-->
+							
+								<ul class="stats">
+									<li><a href="#" class="icon fa-comment">0</a></li>
+									<!-- <li><a href="#" class="icon fa-heart">0</a></li> -->
+									<li class="like__btn">
+									<span id="bb"><a class="god">&#128520;&nbsp;&nbsp;100k</a></span>
+									</li>
+									<li><a href="<?php echo 'hhhha';?>" class="icon brands fa-twitter">0</a></li>
+									<li><a href="#" class="icon brands fa-facebook-f">0</a></li>
+								</ul>
+							</div>
+							<a href="#"class="image featured"><img src="images/huz.png" alt="" /></a>
+							<p>
+								<strong>ҮЕҮДИЙГ ТАЙЛБАРЛАХ НЬ</strong>Эцэг эхчүүд хүүхэдтэйгээ яавал илүү сайн дотносож, нээлттэй ярилцах талаар, компанийн удирдлагууд шинэ, залуу ажилтнуудтайгаа хэрхэн ойлголцож, ажлын бүтээмжээ нэмэгдүүлэх талаар, багш нар сурагчдадаа 
+								ямар арга барилаар хичээлээ заавал илүү үр дүнтэй байх талаар <strong>толгой гашилгаж</strong>, мэргэжлийн сэтгэл зүйчид хандах нь бий. Тэр ч бүү хэл, бизнесийн байгууллагууд бараа бүтээгдэхүүн үйлчилгээндээ 
+								оновчтой маркетинг хийж, зорилтот хэрэглэгчдэдээ хүргэхийн тулд тэдний талаар мэддэг байх шаардлагатай болжээ.
+<strong>Японы эрдэмтэд </strong> 
+<a href="facebook">1</a>
+								 <a href="medeelll">nedeeell</a> 
+							</p>
+							<p>
+							Өдгөө олон улс оронд төрийн санхүүжилтээр юм уу бизнесийн байгууллагын захиалгаар мэргэжлийн байгууллагууд үеүдийн талаар судалгааг ихээр хийх болсон. Японы эрдэмтэд гэхэд 1940-өөд оноос хойш төрсөн иргэдээ хэдхэн жилийн зөрүүтэйгээр арваад үед хуваан <a href="http://html5up.net/license">Их төрөлтийн 1, 2-р үе</a>, Хөдөлмөрийн мөстлөгийн үе
+							Чөлөөт боловсролын үе &ndash; гэх мэтээр тухайн цаг үетэй нь холбон нэрлэдэг.  <a href="http://html5up.net">ZAN</a> Харин Хятадын хувьд 1920-оод оноос хойш төрсөн иргэдээ хэд хэдэн үед хуваасан нь бусад орнуудтай харьцуулахад 2-5 жилийн зөрүүтэй байгаа юм.
+								<a href="http://html5up.net">ZAM</a>  Америкийн судлаачид гэхэд бидний сайн мэдэх X, Y, Z үе гэх нэршлүүдийг гаргасан байдаг. Энэ мэтчилэн улс орон бүрийн үеүдийн ангилал ялгаатай байгаа нь улсуудын нийгэм, эдийн засаг, техник технологийн хөгжил харилцан адилгүй байдагтай холбоотой.
+							</p>
+						</article>
+						
+
+					<!-- Post -->
+					<article class="box post post-excerpt">
+							<header>
+								<h2><a href="#">Та өөрийгөө аль үед харьяалагдахыг мэдэх үү?</a></h2>
+								<p>Чөлөөт боловсролын үе</p>
+							</header>
+							<div class="info">
+								<span class="date"><span class="month">Jul<span>y</span></span> <span class="day">8</span><span class="year">, 2014</span></span>
+								<ul class="stats">
+									<li><a href="#" class="icon fa-comment">16</a></li>
+									<li><a href="#" class="icon fa-heart">32</a></li>
+									<li><a href="#" class="icon brands fa-twitter">64</a></li>
+									<li><a href="#" class="icon brands fa-facebook-f">128</a></li>
+								</ul>
+							</div>
+							<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+							<p>
+							Хэдий тийм ч хаана ч буух нийтлэг шинжүүд бий гэдэгтэй судлаачид санал нийлдэг. Дэлхийн хоёрдугаар дайны дараах үсрэнгүй хөгжлийн үед гэхэд л хүн амын төрөлт нийтээр олширсон тул тэднийг их төрөлтийн үеийнхэн, харин 1980-аад онд төрсөн цагаасаа л технологитой салшгүй холбоотой байсан хүүхдүүдийг шинэ мянганынхан, дижитал үеийнхэн гэдэг. Үүнээс гадна хүмүүсийг эдэлж хэрэглэдэг зүйлс, цаг үеэ дагасан тренд, түгээмэл арга барил зэргээр нь ч нэгтгэж үздэг байна.
+							</p>
+						</article>
+
+
+
+
+
+
+								<strong>ҮЕҮДИЙГ ТАЙЛБАРЛАХ НЬ</strong>Эцэг эхчүүд хүүхэдтэйгээ яавал илүү сайн дотносож, нээлттэй ярилцах талаар, компанийн удирдлагууд шинэ, залуу ажилтнуудтайгаа хэрхэн ойлголцож, ажлын бүтээмжээ нэмэгдүүлэх талаар, багш нар сурагчдадаа 
+								ямар арга барилаар хичээлээ заавал илүү үр дүнтэй байх талаар <strong>толгой гашилгаж</strong>, мэргэжлийн сэтгэл зүйчид хандах нь бий. Тэр ч бүү хэл, бизнесийн байгууллагууд бараа бүтээгдэхүүн үйлчилгээндээ 
+								оновчтой маркетинг хийж, зорилтот хэрэглэгчдэдээ хүргэхийн тулд тэдний талаар мэддэг байх шаардлагатай болжээ.
+<strong>Японы эрдэмтэд </strong> 
+<a href="facebook">1</a>
+								 <a href="medeelll">nedeeell</a> 
+
+
+
+
+
+
+								---------------------------- ///// Post
+								 	<article class="box post post-excerpt">
+							<header>
+								<h2><a href="#">Та өөрийгөө аль үед харьяалагдахыг мэдэх үү?</a></h2>
+								<p>Чөлөөт боловсролын үе</p>
+							</header>
+							<div class="info">
+								<span class="date"><span class="month">Jul<span>y</span></span> <span class="day">8</span><span class="year">, 2014</span></span>
+								<ul class="stats">
+									<li><a href="#" class="icon fa-comment">16</a></li>
+									<li><a href="#" class="icon fa-heart">32</a></li>
+									<li><a href="#" class="icon brands fa-twitter">64</a></li>
+									<li><a href="#" class="icon brands fa-facebook-f">128</a></li>
+								</ul>
+							</div>
+							<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+							<p>
+							Хэдий тийм ч хаана ч буух нийтлэг шинжүүд бий гэдэгтэй судлаачид санал нийлдэг. Дэлхийн хоёрдугаар дайны дараах үсрэнгүй хөгжлийн үед гэхэд л хүн амын төрөлт нийтээр олширсон тул тэднийг их төрөлтийн үеийнхэн, харин 1980-аад онд төрсөн цагаасаа л технологитой салшгүй холбоотой байсан хүүхдүүдийг шинэ мянганынхан, дижитал үеийнхэн гэдэг. Үүнээс гадна хүмүүсийг эдэлж хэрэглэдэг зүйлс, цаг үеэ дагасан тренд, түгээмэл арга барил зэргээр нь ч нэгтгэж үздэг байна.
+							</p>
+						</article>
